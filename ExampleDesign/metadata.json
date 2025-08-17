@@ -1,13 +1,13 @@
 {
-  "ProjectName": "FMD_QNC_name",
+  "ProjectName": "FMD_QNC_MOS_VCO_LC",
   "Shuttle": "MPW 0.13µm Jul 2025(T593)",
   "Technology": "SG13G2",
   "Design": {
-    "DesignName": "FMD_QNC_name",
+    "DesignName": "FMD_QNC_MOS_VCO_LC",
     "FinalGdsName": "FMD_QNC_name.gds",
-    "TopCellName": "FMD_QNC_name",
-    "Width": "0.502mm",
-    "Height": "0.602mm",
+    "TopCellName": "FMD_QNC_MOS_VCO_LC",
+    "Width": "0.71mm",
+    "Height": "0.71mm",
     "NumberOfSamples": "10"
   },
   "FinalWaferThickness": "200um"
